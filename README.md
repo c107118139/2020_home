@@ -15,6 +15,4 @@
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
 
-- [ ]todo list
-- [x]done
 
