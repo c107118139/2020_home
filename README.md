@@ -17,16 +17,4 @@
 
 - [ ]todo list
 - [x]done
-function onYouTubeIframeAPIReady() {
-  var player;
-  player = new YT.Player('muteYouTubeVideoPlayer', {
-   playerVars: {
-    autoplay: 1,
-    },
-    events: {
-      onReady: function(e) {
-        e.target.mute();
-      }
-    }
-  });
- }
+
